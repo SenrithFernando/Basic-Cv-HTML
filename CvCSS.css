@@ -3,7 +3,6 @@
 	margin:0px;
 	padding:0px;
 }
-
 body {
 	margin:0px;
 	padding:0px;
@@ -11,20 +10,17 @@ body {
 	background-image:url(bgimg3.jpg);
 	backdrop-filter:blur(5px);
 }
-
 .column {
 	width:70%;
 	float:left;
 	padding:auto;
 	margin:30px;
 }
-
 img {
 	width:100%;
 	padding:0;
 	border-radius:30px;
 }
-
 .card {
 	text-align: left;
 	/* padding:10px; */
