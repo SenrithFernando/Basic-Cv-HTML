@@ -120,8 +120,6 @@ h2 {
 	color: #65B0CD;
 	font-size: 10px;
 	padding-top: 50px;
-	/* bottom: 20px; */
-	/* margin: 30px; */
 }
 .hash {
 	padding-top: 20px;
@@ -188,7 +186,6 @@ h2 {
 .English {
 	width: 90%;
 	background-color: #74B7D2;
-	;
 	opacity: 0.8;
 }
 .Spanish {
@@ -199,7 +196,6 @@ h2 {
 .German {
 	width: 30%;
 	background-color: #74B7D2;
-	;
 	opacity: 0.8;
 }
 .pad {
