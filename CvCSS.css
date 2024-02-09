@@ -8,7 +8,7 @@ body {
 	padding:0px;
 	height:100%;
 	background-image:url(bgimg3.jpg);
-	backdrop-filter:blur(5px);
+/* 	backdrop-filter:blur(5px); */
 }
 .column {
 	width:70%;
