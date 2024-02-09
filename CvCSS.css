@@ -34,18 +34,14 @@ img {
 	float: left;
 	width: 100%;
 	border-radius: 20px;
-
 	margin: 10px;
 	padding: 5px;
 }
-
 .card1 {
 	padding: 10px;
 	background-color: #7ab0c2;
-
 	border-radius: 20px;
 }
-
 .column2 {
 	width: 20%;
 	float: left;
@@ -53,33 +49,27 @@ img {
 	margin: 30px;
 	border-radius: 30%;
 }
-
 .page {
 	padding-top: 10px;
 	padding-bottom: 10px;
 }
-
 .page:after {
 	clear: both;
 	content: "";
 	display: block;
 }
-
 .footer {
 	padding: 30px;
 	width: 100%;
-
 	background-color: #0D2030;
 	text-align: center;
 	color: white;
 }
-
 .footline {
 	color: gray;
 	font-size: 10px;
 	padding-bottom: 10px;
 }
-
 .social1 {
 	color: white;
 	padding-left: 10px;
@@ -87,25 +77,21 @@ img {
 	padding-bottom: 10px;
 	font-size: 10px;
 }
-
 .prf1 {
 	font-size: 15px;
 	padding: 5px;
 }
-
 .para {
 	font-size: 15px;
 	padding-top: 10px;
 	padding-bottom: 10px;
 	color: #051F24;
 }
-
 h3 {
 	font-size: 27px;
 	padding-top: 10px;
 	padding-bottom: 10px;
 }
-
 h2 {
 	font-size: 23px;
 	padding-top: 10px;
@@ -113,34 +99,26 @@ h2 {
 	padding-left: 20px;
 	color: #122C40;
 }
-
 .dates {
 	font-size: 20px;
 	padding-left: 40px;
 	color: #427387;
 }
-
 .name {
 	position: absolute;
 	z-index: 1;
-
 	padding-left: 8px;
 	padding-right: 8px;
 	padding-top: 3px;
 	padding-bottom: 3px;
-
 	color: white;
 	background-color: #085872;
 	opacity: 0.7;
 	border-radius: 20px;
 }
-
-
-
 .prfpic {
 	z-index: 2;
 }
-
 .hashtag {
 	text-decoration: none;
 	color: #65B0CD;
@@ -149,26 +127,20 @@ h2 {
 	/* bottom: 20px; */
 	/* margin: 30px; */
 }
-
 .hash {
 	padding-top: 20px;
 }
-
 /* Container holding the image and the text */
 .container {
 	position: relative;
 	text-align: center;
 	color: white;
-
 }
-
 /* Bottom left text */
 .bottom-left {
 	position: absolute;
 	bottom: 8px;
 	left: 16px;
-
-
 	padding-left: 8px;
 	padding-right: 8px;
 	padding-top: 3px;
@@ -177,25 +149,18 @@ h2 {
 	background-color: #085872;
 	opacity: 0.7;
 	border-radius: 20px;
-
 	font-size: 19px;
-
 }
-
 .container1 {
 	width: 100%;
 	background-color: #122C40;
 	border-radius: 0 15px 15px 0;
-
 }
-
 .container2 {
 	width: 100%;
 	background-color: #122C40;
 	border-radius: 0 15px 15px 0;
-
 }
-
 .skills {
 	text-align: right;
 	padding-top: 5px;
@@ -203,56 +168,46 @@ h2 {
 	padding-right: 2px;
 	color: #122C40;
 	border-radius: 0 15px 15px 0;
-
 }
-
 .Adobe {
 	width: 90%;
 	background-color: #74B7D2;
 	opacity: 0.8;
 }
-
 .Photography {
 	width: 80%;
 	background-color: #74B7D2;
 	opacity: 0.8;
 }
-
 .illusterater {
 	width: 75%;
 	background-color: #74B7D2;
 	opacity: 0.8;
 }
-
 .media {
 	width: 50%;
 	background-color: #74B7D2;
 	opacity: 0.8;
 }
-
 .English {
 	width: 90%;
 	background-color: #74B7D2;
 	;
 	opacity: 0.8;
 }
-
 .Spanish {
 	width: 60%;
 	background-color: #74B7D2;
 	opacity: 0.8;
 }
-
 .German {
 	width: 30%;
 	background-color: #74B7D2;
 	;
 	opacity: 0.8;
 }
-
 .pad {
 	padding-top: 10px;
 	padding-bottom: 5px;
 	font-size: 15px;
-
 }
