@@ -23,10 +23,8 @@ img {
 }
 .card {
 	text-align: left;
-	/* padding:10px; */
 	bottom: 30px;
 	background-color: #93aeb8;
-	/* box-shadow: 2px 5px 10px #056a8c; */
 	float: left;
 	width: 100%;
 	border-radius: 20px;
